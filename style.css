@@ -1,0 +1,72 @@
+hr {
+  margin: 70px 0;
+}
+
+.imgDescripcion img {
+  width: 100%;
+}
+
+.desbord {
+  overflow: hidden;
+  background-size: cover;
+}
+
+.swLogo {
+  width: 60px;
+}
+
+.btn-outline-success {
+  background-color: #fade4b;
+  border-color: none;
+  color: #212529;
+}
+
+.btn-outline-success:hover {
+  background-color: #fff;
+  color: #212529;
+}
+
+.btn {
+  background-color: #fade4b;
+  border: 1px solid #fade4b;
+  color: #212529;
+  font-weight: 500;
+}
+
+.btn:hover {
+  background-color: transparent;
+  border: 1px solid #fade4b;
+  color: #fade4b;
+  font-weight: 500;
+}
+
+.mbtn {
+  margin-bottom: 30px;
+}
+
+.imgrounded {
+  width: 140px;
+  border-radius: 50%;
+}
+
+.margenTemporadas {
+  padding: 80px 10px 0;
+  margin-bottom: 0;
+}
+
+.margenDescrip {
+  padding: 20px 40px 20px;
+}
+
+.bigText {
+  font-size: 3rem;
+}
+
+.enlace {
+  text-decoration: none;
+  color: #fade4b;
+}
+
+.enlace:hover {
+  color: #fff;
+}/*# sourceMappingURL=style.css.map */
